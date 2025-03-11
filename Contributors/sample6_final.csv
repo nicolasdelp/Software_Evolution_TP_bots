@@ -1,0 +1,41 @@
+contributor,bothunter_type,actor,bimbas_type,confidence,manual,acc_type
+AnkitBarik,Human,False,Human,0.721,,User
+DragaDoncila,Human,False,Human,0.845,,User
+GPUtester,Human,False,Bot,0.841,Bot,Bot Actor
+JuliaTagBot,Bot,False,Bot,0.345,,Bot Actor
+MSanKeys963,Human,False,Human,0.951,,User
+Rodot-,Human,False,Human,0.795,,User
+ViciousEagle03,Human,False,Human,0.86,,User
+almahmoud,Human,False,Bot,0.016,Human,User
+avalentino,Human,False,Human,0.947,,User
+bioc-workshop-dev,Human,False,Bot,0.887,Bot,Bot Actor
+boisgera,Human,False,Bot,0.916,Human,User
+cphyc,Human,False,Human,0.898,,User
+dmcki23,Human,False,Bot,0.858,Human,User
+ferrine,Human,False,Human,0.77,,User
+galaxyproject-sentryintegration[bot],Bot,True,Bot,0.526,,Bot Actor
+github-actions[bot],Bot,True,Bot,0.145,,Bot Actor
+github-advanced-security[bot],Bot,True,Bot,0.703,,Bot Actor
+hackmd-hub[bot],Bot,True,Bot,0.751,,Bot Actor
+hannahbellelee,Human,False,Bot,0.765,Human,User
+j-bowhay,Human,False,Human,0.829,,User
+jmchilton,Human,False,Human,0.852,,User
+kamapu,Human,False,Human,0.784,,User
+layik,Human,False,Human,0.931,,User
+lumberbot-app[bot],Bot,True,Bot,0.912,,Bot Actor
+martaiborra,Human,False,Human,0.793,,User
+michaeldumelle,Human,False,Bot,0.837,Human,User
+nabobalis,Human,False,Human,0.546,,User
+orionarcher,Human,False,Human,0.883,,User
+pllim,Human,False,Human,0.449,,User
+review-notebook-app[bot],Bot,True,Bot,0.92,,Bot Actor
+rrsettgast,Human,False,Bot,0.916,Human,User
+scikit-learn-bot,Bot,False,Bot,0.714,,Bot Actor
+skanwal,Human,False,Bot,0.861,Human,User
+sklearn-ci,Bot,False,Bot,0.936,,Bot Actor
+stan-buildbot,Bot,False,Human,0.201,Bot,Bot Actor
+tardis-bot,Human,False,Bot,0.331,Bot,Bot Actor
+timhoffm,Human,False,Human,0.633,,User
+transifex-integration[bot],Bot,True,Bot,0.535,,Bot Actor
+willyfh,Human,False,Bot,0.838,Human,User
+zeptodoctor,Human,False,Bot,0.937,Bot,Bot Actor
